@@ -8,7 +8,7 @@ int main() {
     int i, size = 3, choice = 0;
 
     grades = (float *) malloc(sizeof(float) * size);
-
+    //skibidi
     while (choice != 1){
     for(i=0; i<size; i++) {
         printf("Enter grade %d: ", i+1);
